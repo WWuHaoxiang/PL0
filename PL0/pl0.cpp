@@ -1,8 +1,3 @@
-// PL0_Cpp.cpp: 定义控制台应用程序的入口点。
-//
-
-//#include "stdafx.h"
-
 /*
 * PL/0 complier program for win32 platform (implemented in C)
 *
