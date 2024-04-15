@@ -139,17 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\PL0_Cpp\PL0_Cpp\PL0_Cpp.cpp" />
-    <ClCompile Include="..\..\PL0_Cpp\PL0_Cpp\stdafx.cpp" />
+    <ClCompile Include="pl0.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\PL0_Cpp\PL0_Cpp\pl0.h" />
-    <ClInclude Include="..\..\PL0_Cpp\PL0_Cpp\stdafx.h" />
-    <ClInclude Include="..\..\PL0_Cpp\PL0_Cpp\targetver.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\PL0_Cpp\PL0_Cpp\Samples\function.pl0" />
-    <None Include="..\..\PL0_Cpp\PL0_Cpp\Samples\max.pl0" />
+    <ClInclude Include="pl0.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

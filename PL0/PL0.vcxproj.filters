@@ -13,35 +13,15 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="pl0_codes">
-      <UniqueIdentifier>{8e03ad7b-537c-4b2d-8e38-0e5bd30830b9}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\PL0_Cpp\PL0_Cpp\PL0_Cpp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\PL0_Cpp\PL0_Cpp\stdafx.cpp">
+    <ClCompile Include="pl0.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\PL0_Cpp\PL0_Cpp\pl0.h">
+    <ClInclude Include="pl0.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\PL0_Cpp\PL0_Cpp\stdafx.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\PL0_Cpp\PL0_Cpp\targetver.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\PL0_Cpp\PL0_Cpp\Samples\max.pl0">
-      <Filter>源文件</Filter>
-    </None>
-    <None Include="..\..\PL0_Cpp\PL0_Cpp\Samples\function.pl0">
-      <Filter>pl0_codes</Filter>
-    </None>
   </ItemGroup>
 </Project>
