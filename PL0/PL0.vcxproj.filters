@@ -24,4 +24,45 @@
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="samples\column.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\daffodilnum.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\F2C.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\function.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\max.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\permutation.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\quicksort.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\sample0.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\sample1.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\sample2.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\sample3.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\SumOfn!.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="samples\test_recursive.pl0">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
 </Project>

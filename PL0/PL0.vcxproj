@@ -144,6 +144,21 @@
   <ItemGroup>
     <ClInclude Include="pl0.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="samples\column.pl0" />
+    <None Include="samples\daffodilnum.pl0" />
+    <None Include="samples\F2C.pl0" />
+    <None Include="samples\function.pl0" />
+    <None Include="samples\max.pl0" />
+    <None Include="samples\permutation.pl0" />
+    <None Include="samples\quicksort.pl0" />
+    <None Include="samples\sample0.pl0" />
+    <None Include="samples\sample1.pl0" />
+    <None Include="samples\sample2.pl0" />
+    <None Include="samples\sample3.pl0" />
+    <None Include="samples\SumOfn!.pl0" />
+    <None Include="samples\test_recursive.pl0" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
